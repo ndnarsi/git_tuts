@@ -1,0 +1,1 @@
+print("narsi how are you + entry course")
